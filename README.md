@@ -25,7 +25,7 @@ This repo shows how to use **AWS EMR** and **Apache Spark** to process big data 
 
 ## Full Guide
 
-[Medium article series](https://medium.com/@jushijun/leveraging-aws-emr-for-scalable-spark-processing-a-comprehensive-guide-9c9848f2ac1f)
+This project is fully documented in a [Medium article](https://medium.com/@jushijun/leveraging-aws-emr-for-scalable-spark-processing-a-comprehensive-guide-9c9848f2ac1f)
 
 ## References
 
