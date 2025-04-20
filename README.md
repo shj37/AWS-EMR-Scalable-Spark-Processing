@@ -25,7 +25,7 @@ This repo shows how to use **AWS EMR** and **Apache Spark** to process big data 
 
 ## Full Guide
 
-[Medium article series](https://medium.com/@jushijun/building-a-banking-customer-data-warehouse-an-end-to-end-guide-using-aws-and-dbt-c058ebe7af35)
+[Medium article series](https://medium.com/@jushijun/leveraging-aws-emr-for-scalable-spark-processing-a-comprehensive-guide-9c9848f2ac1f)
 
 ## References
 
